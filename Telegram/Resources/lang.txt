@@ -17,7 +17,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 */
 direction: "LTR";
 
-lng_maintitle: "Telegram Desktop";
+lng_maintitle: "Telegram para Escritorio";
 
 lng_menu_contacts: "Contacts";
 lng_menu_settings: "Settings";
